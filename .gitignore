@@ -18,6 +18,9 @@ out
 .nitro
 *.local
 
+# Local QA artifacts
+artifacts/
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars
